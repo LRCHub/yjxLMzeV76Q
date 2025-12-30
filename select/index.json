@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "Brought the Heat Back",
+  "base_artist": "ENHYPEN",
+  "createdAt": "2025-12-30T17:05:53.965129Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Brought The Heat Back",
+      "artist": "ENHYPEN",
+      "has_synced": true,
+      "path": "select/01_Brought_The_Heat_Back_ENHYPEN.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Brought The Heat Back",
+      "artist": "ENHYPEN",
+      "has_synced": true,
+      "path": "select/02_Brought_The_Heat_Back_ENHYPEN.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Brought The Heat Back",
+      "artist": "ENHYPEN",
+      "has_synced": false,
+      "path": "select/03_Brought_The_Heat_Back_ENHYPEN.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Brought The Heat Back",
+      "artist": "ENHYPEN",
+      "has_synced": true,
+      "path": "select/04_Brought_The_Heat_Back_ENHYPEN.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Brought The Heat Back",
+      "artist": "Ava Max",
+      "has_synced": true,
+      "path": "select/05_Brought_The_Heat_Back_Ava_Max.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Brought The Heat Back",
+      "artist": "nihmune",
+      "has_synced": true,
+      "path": "select/06_Brought_The_Heat_Back_nihmune.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Brought The Heat Back (Feat. Ava Max)",
+      "artist": "ENHYPEN",
+      "has_synced": true,
+      "path": "select/07_Brought_The_Heat_Back_(Feat._Ava_Max)_ENHYPEN.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Brought The Heat Back",
+      "artist": "ENHYPEN",
+      "has_synced": true,
+      "path": "select/08_Brought_The_Heat_Back_ENHYPEN.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Brought The Heat Back",
+      "artist": "ENHYPEN",
+      "has_synced": true,
+      "path": "select/09_Brought_The_Heat_Back_ENHYPEN.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Brought The Heat Back",
+      "artist": "엔하이픈 (ENHYPEN)",
+      "has_synced": true,
+      "path": "select/10_Brought_The_Heat_Back_엔하이픈_(ENHYPEN).lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Brought The Heat Back (feat. Ava Max)",
+      "artist": "ENHYPEN",
+      "has_synced": true,
+      "path": "select/11_Brought_The_Heat_Back_(feat._Ava_Max)_ENHYPEN.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Brought The Heat Back (feat. ShiaBun)",
+      "artist": "nihmune",
+      "has_synced": true,
+      "path": "select/12_Brought_The_Heat_Back_(feat._ShiaBun)_nihmune.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Brought the Heat Back",
+      "artist": "nihmune feat. SHIABUN",
+      "has_synced": true,
+      "path": "select/13_Brought_the_Heat_Back_nihmune_feat._SHIABUN.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "ENHYPEN - \"BROUGHT THE HEAT BACK\" (HIDDEN VOCALS)",
+      "artist": "oldjeans",
+      "has_synced": true,
+      "path": "select/14_ENHYPEN_-__BROUGHT_THE_HEAT_BACK__(HIDDEN_VOCALS)_oldjeans.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Brought The Heat Back",
+      "artist": "ENHYPEN",
+      "has_synced": false,
+      "path": "select/pl_01_Brought_The_Heat_Back_ENHYPEN.txt"
+    }
+  ]
+}
