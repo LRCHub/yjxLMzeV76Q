@@ -1,0 +1,77 @@
+# ENHYPEN – Brought the Heat Back
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:07.24] Yeah I brought the heat back
+[00:10.10] 데일 듯 Hotter
+[00:11.84] 거친 Madness 갈수록 Stronger
+[00:15.65] No it ain't my fault ain't my fault
+[00:18.08] Ain't my fault 너 땜에 이래
+[00:19.88] 이상해 싫은데 질투심에 휩싸이네
+[00:24.39] Yeah yeah yeah
+[00:25.42] Heat
+[00:28.38] Yeah yeah yeah
+[00:29.36] Heat
+[00:32.30] Yeah yeah yeah
+[00:33.78] 질투하다 못해 미칠 거야
+[00:36.27] Yeah yeah yeah
+[00:37.77] 인내심도 바닥을 칠 거야
+[00:40.21] Yeah yeah yeah
+[00:41.66] 난지 걘지 헷갈리게 말아
+[00:44.14] Yeah yeah yeah
+[00:45.47] 난 이대로 미쳐 미쳐 Going crazy
+[00:48.41] Don't test me
+[00:49.45] 애써 참다 참다
+[00:50.66] I brought the heat back
+[00:53.33] 데일 듯 Hotter
+[00:54.86] 거친 Madness 갈수록 Stronger
+[00:58.74] No it ain't my fault ain't my fault
+[01:01.29] Ain't my fault 너 땜에 이래
+[01:03.29] 이상해 싫은데 질투심에 휩싸이네
+[01:07.60] Yeah yeah yeah
+[01:08.63] Heat
+[01:11.68] Yeah yeah yeah
+[01:12.73] Heat
+[01:15.58] Yeah yeah yeah
+[01:17.04] 아까 인사한 저 앤 누구야
+[01:19.57] Yeah yeah yeah
+[01:21.06] 왜 그렇게 웃어 주는 거야
+[01:23.49] Yeah yeah yeah
+[01:24.90] 난생처음 느껴보는 Feeling
+[01:27.66] 머린 Spinning 숨겨지지 않네 미친 Yeah
+[01:31.71] Don't test me
+[01:32.85] 애써 참다 참다
+[01:34.11] I brought the heat back
+[01:36.62] 데일 듯 Hotter
+[01:38.20] 거친 Madness 갈수록 Stronger
+[01:42.18] No it ain't my fault ain't my fault
+[01:44.60] Ain't my fault 너 땜에 이래
+[01:46.58] 이상해 싫은데 질투심에 휩싸이네
+[01:51.03] Yeah yeah yeah
+[01:51.92] Heat
+[01:54.83] Yeah yeah yeah
+[01:55.74] Heat
+[01:58.96] Yeah yeah yeah
+[01:59.80] Heat
+[02:02.72] Yeah yeah yeah
+[02:03.70] Heat
+[02:06.72] Yeah yeah yeah yeah yeah yeah yeah yeah
+[02:09.78] 점점 더
+[02:10.65] Yeah yeah yeah yeah yeah yeah yeah yeah
+[02:13.32] 참을 수 없어
+[02:18.18] 애써 참다 참다 참다 참다 참다 참다
+[02:21.37] I brought the heat back
+[02:23.94] 데일 듯 Hotter
+[02:25.57] 거친 Madness 갈수록 Stronger
+[02:29.31] No it ain't my fault ain't my fault
+[02:31.79] Ain't my fault 너 땜에 이래
+[02:33.83] 이상해 싫은데 질투심에 휩싸이네
+[02:39.18] Heat Heat
+[02:46.15] Yeah yeah yeah
+[02:47.03] Heat
+[02:50.07] Yeah yeah yeah
+[02:51.04] Heat
+[02:51.64] 질투심이 날 태우네
+[02:53.90] Yeah yeah yeah
+```
